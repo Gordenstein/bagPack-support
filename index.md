@@ -76,7 +76,7 @@ Need help? Reach out:
 
 ## Privacy Policy
 
-Your data stays yours. Read our Privacy Policy for details on how we handle your information.
+Your data stays yours. Read our [Privacy Policy](https://gordenstein.github.io/bagPack-support/privacy-policy/) for details on how we handle your information.
 
 ---
 
